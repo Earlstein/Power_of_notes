@@ -1,0 +1,10 @@
+* [[Data Source]]
+* [[Data Ingestion]]
+* [[Data Processing]]
+* [[Data Storage]]
+* [[Data Consumption]]
+* [[Data Governance]]
+[[Scalable]]: Volume, Resouce allocation, Parallelism, [[Flault Tolerance]]
+Schema evolution: Forward compartibility/Backward compatibility.
+[[Security]]: [[Access Control]], [[Encryption]], [[Anonimazation]]
+[[[Error Handling]], [[Disuster Recovery]]

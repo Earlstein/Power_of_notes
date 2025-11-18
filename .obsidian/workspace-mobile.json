@@ -1,0 +1,423 @@
+{
+  "main": {
+    "id": "f775e9eb7553778a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7035bd763da06fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9b60ce612daf7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b5fd653cfc6a675f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3fa1e3ec4e48f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Modelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Modelling"
+            }
+          },
+          {
+            "id": "dd462c3976b9e523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1049c65d57b949ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Modelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Modelling"
+            },
+            "group": "660078fc72c96de3"
+          },
+          {
+            "id": "43786736777d4a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Modelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Modelling"
+            }
+          },
+          {
+            "id": "d306c5d55e882d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing Data Pipeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Designing Data Pipeline"
+            }
+          },
+          {
+            "id": "60f17e63c9132658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Modelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Modelling"
+            },
+            "group": "e811e6b06af004f0"
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "3e0775082617964c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2006644d39eede1b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tags/Tags.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9447157314068854,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "e811e6b06af004f0"
+          }
+        ]
+      },
+      {
+        "id": "c91cd272fbd0659f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f3157ee531ed70",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "KAFKA.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": false,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "e811e6b06af004f0"
+          }
+        ]
+      },
+      {
+        "id": "4f4acca11293c3c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11068cbae8a88a2a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Data Modelling.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "660078fc72c96de3"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a57c08492f9f581",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e740660c5080376",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "16d6932fe879e0f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a008a37b88b0c696",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8b73ea4b5cab9899",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "4dad1f3d3e576321",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fedc06c7e094a849",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ccc9b2ecab0634a2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1747e228fd3b7099",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "aa01215e613b3d10",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9e740660c5080376",
+  "lastOpenFiles": [
+    "Zookeper.md",
+    "Tags/Tags.md",
+    "Data Structures.md",
+    "KAFKA.md",
+    "Technology relations.md",
+    "Tamplates/Init template.md",
+    "S3.md",
+    "Designing Data Pipeline.md",
+    "Data Modelling.md",
+    "Hadoop.md",
+    "Start Schema.md",
+    "Untitled",
+    "Tamplates",
+    "Data Engineer",
+    "Tags"
+  ]
+}
