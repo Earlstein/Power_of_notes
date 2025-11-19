@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tamplates/list.md",
+                "file": "2025/Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "list"
+              "title": "Data Structures"
             }
           }
         ]
@@ -170,11 +170,13 @@
   },
   "active": "60f17e63c9132658",
   "lastOpenFiles": [
-    "2025/!URGENT.md",
-    "_tags/Tags.md",
+    "_utilities/Obsidian.md",
+    "_utilities/Markdown Cheat-Sheet.md",
     "Canvas.canvas",
     "2025/2025-11-19.md",
     "_tamplates/list.md",
+    "2025/!URGENT.md",
+    "_tags/Tags.md",
     "_tamplates/Tip callout.md",
     "_tamplates/!URGENT.md",
     "2025/HDFS.md",
