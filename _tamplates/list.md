@@ -3,23 +3,15 @@ created:
 tags:
   - list
 ---
-# 💠 Task List
-## 🔴 URGENT
-*Do it now*
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3 
-### 🟠 IMPORTANT 
+# Task List
+## URGENT
+*Do it now*(2hr max)
+- [ ]  
+### IMPORTANT 
 *Do it after tasks above*
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3 
-#### 🟡 NOT URGENT / IMPORTANT
+- [ ]  
+#### !URGENT
 *Decide when to do it* 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3 
-##### 🟢 Completed 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3 
+- [ ] 
+##### COMPLETE
+- [ ]  
