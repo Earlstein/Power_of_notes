@@ -8,7 +8,5 @@
 [[KAFKA]]
 [[Hadoop]]
 [[Primitive Data Structures]]
-
 [[Abstract Data Structures]]
 [[Bubble Sort]]
-[[]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - V1
-Complete: "0"
+  - data-engineering
+  - data-modelling
 ---
 * Structuring data for efficiency/cost/ and easy access
 Types of data modelling:

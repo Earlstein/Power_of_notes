@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0b21ad6d60d0791d","x":9,"y":-908,"width":290,"height":200,"type":"group","label":"Link"},
+		{"id":"d857a1808c04ea40","x":-360,"y":-1160,"width":250,"height":60,"type":"text","text":"Canvas"},
+		{"id":"b252448d7d704853","x":-357,"y":-1000,"width":245,"height":223,"type":"text","text":"## Features\n* Card\n* Connections\n* Notes\n* Images\n* Groups"},
+		{"id":"ec7abfea572e5947","x":-40,"y":-1231,"width":345,"height":203,"color":"3","type":"text","text":"## Benefits\n* Allows visualisation of ideas.\n* Brain storming is easy and fast.\n* One board for different information access. Links, Pitures, Websites"},
+		{"id":"fa13af4521fbdd72","x":29,"y":-888,"width":250,"height":60,"type":"text","text":"Link to that started this graph"},
+		{"id":"c492f41112e20b79","x":29,"y":-800,"width":227,"height":72,"type":"link","url":"https://youtu.be/gafuqdKwD_U?t=3199"}
+	],
+	"edges":[
+		{"id":"7474881286210df7","fromNode":"d857a1808c04ea40","fromSide":"bottom","toNode":"b252448d7d704853","toSide":"top"},
+		{"id":"047bd91e1a6290ba","fromNode":"d857a1808c04ea40","fromSide":"right","toNode":"ec7abfea572e5947","toSide":"left","color":"3"}
+	]
+}

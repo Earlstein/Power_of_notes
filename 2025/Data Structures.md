@@ -1,6 +1,5 @@
 ---
 tags:
-  - V1
 Complete: "0"
 ---
 * How we store data in structures
