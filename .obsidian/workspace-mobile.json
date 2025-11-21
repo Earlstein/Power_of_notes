@@ -11,14 +11,17 @@
             "id": "60f17e63c9132658",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2025/Data Structures.md",
-                "mode": "source",
-                "source": false
+                "file": "December shenanigans.canvas",
+                "viewState": {
+                  "x": 26.60870252240106,
+                  "y": 556.546875,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Data Structures"
+              "icon": "lucide-layout-dashboard",
+              "title": "December shenanigans"
             }
           }
         ]
@@ -170,10 +173,13 @@
   },
   "active": "60f17e63c9132658",
   "lastOpenFiles": [
-    "_utilities/Obsidian.md",
+    "_tamplates/Habit Challenge.md",
+    "December shenanigans.canvas",
     "_utilities/Markdown Cheat-Sheet.md",
-    "Canvas.canvas",
+    "_utilities/Obsidian.md",
     "2025/2025-11-19.md",
+    "2025/Data Structures.md",
+    "Canvas.canvas",
     "_tamplates/list.md",
     "2025/!URGENT.md",
     "_tags/Tags.md",
