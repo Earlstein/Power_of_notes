@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arm_hand/Anatomy of the Hand and Wrist.md",
+                "file": "2025/2025-12-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomy of the Hand and Wrist"
+              "title": "2025-12-16"
+            }
+          },
+          {
+            "id": "b6961f4d66dd1fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/Thinking in system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thinking in system"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +197,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e020791e4d220c73",
+  "active": "b6961f4d66dd1fe3",
   "lastOpenFiles": [
-    "2025/2025-12-11.md",
+    "2025/2025-12-16.md",
+    "2025/Thinking in system.md",
     "Arm_hand/Anatomy of the Hand and Wrist.md",
+    "2025/2025-12-11.md",
     "Arm_hand/2025/files/Pasted image 20251210204945.jpg",
     "Arm_hand/2025/files",
     "Arm_hand/2025",
@@ -215,8 +231,6 @@
     "KAFKA.md",
     "Technology relations.md",
     "Tamplates/Init template.md",
-    "S3.md",
-    "Designing Data Pipeline.md",
     "Tamplates",
     "Data Engineer",
     "Tags"
